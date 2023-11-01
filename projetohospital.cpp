@@ -2,12 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-/*
-Leticia Seto Yen - 22306613
-Carolina Marques Vinhal de Carvalho - 22303413
-Gabriel Souza - 22302999
-Isabella Campos Bueno - 22307795
-*/
+
 
 struct paciente {
     char nome[50];
